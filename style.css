@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-family: bold;
+}
+
+h3{
+    text-align: center;
+    font-size: 15px;
+    border: solid 1px whitesmoke;
+    width: 100%;
+    margin: auto;
+    text-decoration-style: 
+}
+
+body{
+    image-orientation: 50px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+#man{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+#woman{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+span{
+    text-align: center;
+    display: block;
+}
+
+mens{
+    text-align: center;
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+h5{
+    text-align: center;
+    font-size: 15px;
+}
